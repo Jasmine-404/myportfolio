@@ -14,7 +14,7 @@ author:      "Paul Le"
 collections:
   projects:
     output: true
-    permalink: /:collection/:title
+    permalink: /projects/:title
     # sort_by: date
     # sort_reverse: true
   visualization_projects:
