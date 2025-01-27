@@ -12,7 +12,7 @@ description: "Powered by Jekyll and GitHub Pages"
 author:      "Paul Le"
 
 collections:
-  projects:
+  da:
     output: true
     permalink: /projects/:title
     # sort_by: date
