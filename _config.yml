@@ -17,7 +17,7 @@ collections:
     permalink: /:collection/:title
     # sort_by: date
     # sort_reverse: true
-    visualization_projects:
+  visualization_projects:
     output: true
     permalink: /visualization/:title
 
