@@ -22,7 +22,7 @@ resume_link_title: Download Resume
 # The items that will show up in the drop down menu (in addition to the resume
 # link, if given).
 menu:
-- {name: 'Projects', url: ' '}
+- {name: 'Works', url: ' '}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
