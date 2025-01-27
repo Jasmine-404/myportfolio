@@ -17,3 +17,8 @@ collections:
     permalink: /:collection/:title
     # sort_by: date
     # sort_reverse: true
+
+collections:
+  visualizations:
+    output: true
+    permalink: /:collection/:title
