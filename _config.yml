@@ -20,4 +20,7 @@ collections:
   visualization_projects:
     output: true
     permalink: /visualization/:title
+  js_projects:
+    output: true
+    permalink: /jsproj/:title
 
