@@ -7,11 +7,9 @@ logo: '/assets/img/musa-logo.png'
 # A brief introduction or mission statement that appears at the top of the
 # portfolio home page, above the project list. If you don't want one of the
 # intro_title or intro_text to show up, just set the appropriate value to null.
-intro_title: Personal Mission 10-word Summary
+intro_title: Jasmine Fei
 intro_text: |
-  A brief couple of sentences describing your personal mission statement goes
-  here. This is a great place to very succinctly tell a visitor what drives you
-  and what you're passionate about.
+  I major in GIS, I'm passionate about spatial data analysis
 
 # The link that is used for the resume button, below the intro text on the
 # portfolio home page. This link will also be used in the drop down menu. If
