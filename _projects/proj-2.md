@@ -1,10 +1,9 @@
 ---
 layout: post
-title: 'Project Two'
-thumbnail: /assets/img/projects/proj-2/thumbnail.jpg
+title: 'Analysis of Amsterdam’s Short-term Rental Policy'
+thumbnail: /assets/img/projects/proj-2/thumbnail.png
 collection: projects
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+[Analysis of Amsterdam’s Short-term Rental Policy](https://jasmine-404.github.io/PPA-Amsterdam-fairbnb/)
+Meanwhile, a web application prototype is developed using JavaScript, and can be viewed [here](https://tinyurl.com/musa-5080-final)

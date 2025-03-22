@@ -15,7 +15,26 @@
     </a>
   {% endfor %}
 
-  <h2>visualization</h2>
+
+  <h2>Web Application</h2>
+
+  {% for project in site.web_projects %}
+    <!--a class="project-link" href="{{ project.url | relative_url }}"-->
+    <a class="project-link" href="{{ project.external_url }}" target="_blank">
+      <div class="project-thumbnail-wrapper">
+        <img class="project-thumbnail" src="{{ project.thumbnail | relative_url }}" alt="{{ project.title }}">
+      </div>
+      <div class="project-label">
+        {{ project.title }}
+      </div>
+      <div class="project-link-arrow">
+        <i class="fa fa-arrow-right" aria-hidden="true"></i>
+      </div>
+    </a>
+  {% endfor %}
+
+  
+  <h2>Cartography</h2>
   
   {% for project in site.visualization_projects %}
     <a class="project-link" href="{{ project.url | relative_url }}">

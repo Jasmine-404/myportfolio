@@ -17,10 +17,12 @@ collections:
     permalink: /projects/:title
     # sort_by: date
     # sort_reverse: true
+
   visualization_projects:
     output: true
     permalink: /visualization/:title
-  js_projects:
+
+  web_projects:
     output: true
-    permalink: /jsproj/:title
+    permalink: /webproj/:title
 
