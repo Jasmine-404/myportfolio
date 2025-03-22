@@ -15,4 +15,4 @@ Throughout the project, we faced challenges with missing or incomplete data, par
 
 By using local data and a careful approach, we have built a model that offers more reliable price estimates, providing better insights for homeowners, buyers, and policymakers.
 
-*To see full project: [Housing Price Prediction in Philadelphia](assets\html\projects\MUSA5080_Midterm_finalversion.html)*
+*To see full project: [Housing Price Prediction in Philadelphia](https://jasmine-404.github.io/PPA-Philadelphia-house-price-prediction/)*
