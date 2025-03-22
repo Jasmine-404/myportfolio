@@ -3,6 +3,7 @@ layout: post
 title: 'Analysis of Amsterdam’s Short-term Rental Policy'
 thumbnail: /assets/img/projects/proj-2/thumbnail.png
 collection: projects
+external_url: https://jasmine-404.github.io/PPA-Amsterdam-fairbnb/
 ---
 
 [Analysis of Amsterdam’s Short-term Rental Policy](https://jasmine-404.github.io/PPA-Amsterdam-fairbnb/)

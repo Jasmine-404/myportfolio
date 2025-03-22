@@ -3,6 +3,7 @@ layout: post
 title: 'Project One'
 thumbnail: /assets/img/projects/proj-1/thumbnail.png
 collection: projects
+external_url: https://jasmine-404.github.io/PPA-Philadelphia-house-price-prediction/
 ---
 **Project Introduction**
 Predicting home prices can be challenging, especially when relying on automated valuation models (AVMs) like Zillow’s Zestimate. While these tools offer a rough estimate, they often fail to capture the specifics of neighborhoods that don’t follow typical trends. Inaccurate home price predictions can have serious impacts, affecting everything from mortgage decisions to housing policies.

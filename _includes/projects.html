@@ -1,8 +1,9 @@
 <section class="projects-container">
-  <h2>data analysis</h2>
+  <h2>Spatial Analysis</h2>
 
   {% for project in site.projects %}
-    <a class="project-link" href="{{ project.url | relative_url }}">
+    <!--a class="project-link" href="{{ project.url | relative_url }}"-->
+    <a class="project-link" href="{{ project.external_url }}" target="_blank">
       <div class="project-thumbnail-wrapper">
         <img class="project-thumbnail" src="{{ project.thumbnail | relative_url }}" alt="{{ project.title }}">
       </div>
