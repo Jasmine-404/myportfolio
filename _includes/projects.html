@@ -39,8 +39,8 @@
   
   {% for project in site.visualization_projects %}
     <a class="project-link" href="{{ project.url | relative_url }}">
-      <div class="project-thumbnail-wrapper">
-        <img class="project-thumbnail" src="{{ project.thumbnail | relative_url }}" alt="{{ project.title }}">
+      <div class="project-thumbnail-wrapper-cartography">
+        <img class="project-thumbnail--cartography" src="{{ project.thumbnail | relative_url }}" alt="{{ project.title }}">
       </div>
       <div class="project-label">
         {{ project.title }}

@@ -1,13 +1,8 @@
 ---
 layout: post
-title: 'Maps'
-thumbnail: /assets/img/visualization/visualization-1/03_Jingmiao-Polygons.png
+title: 'Population Distribution in Philadelphia'
+thumbnail: /assets/img/visualization/visualization-1/01_Jingmiao-Points.png
 collection: visualization_projects
 ---
-Works for #30dayMapChallenge.
-
 {% include image.html image="visualization/visualization-1/01-Jingmiao-Points.png" %}
 
-{% include image.html image="visualization/visualization-1/02_Jingmiao-Line_The Delaware River.png" %}
-
-{% include image.html image="visualization/visualization-1/03_Jingmiao-Polygons.png" %}
