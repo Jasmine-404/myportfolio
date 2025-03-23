@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Population Distribution in Philadelphia'
-thumbnail: /assets/img/visualization/visualization-1/01-Jingmiao-Points(1).png
+thumbnail: /assets/img/visualization/visualization-1/01-Jingmiao-Points.png
 collection: visualization_projects
 ---
 <img src="/assets/img/visualization/visualization-1/01-Jingmiao-Points.png" alt="Visualization">

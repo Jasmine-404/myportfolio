@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Delaware River'
-thumbnail: /assets/img/visualization/visualization-1/02_Jingmiao-Line_The Delaware River(1).png
+thumbnail: /assets/img/visualization/visualization-1/02_Jingmiao-Line_The Delaware River.png
 collection: visualization_projects
 ---
 <img src="/assets/img/visualization/visualization-1/02_Jingmiao-Line_The Delaware River.png" alt="Visualization">

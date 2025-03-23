@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Building Footprints in Central Philadelphia'
-thumbnail: /assets/img/visualization/visualization-1/03-Jingmiao-Polygons(1).png
+thumbnail: /assets/img/visualization/visualization-1/03-Jingmiao-Polygons.png
 collection: visualization_projects
 ---
 <img src="/assets/img/visualization/visualization-1/03-Jingmiao-Polygons.png" alt="Visualization">
