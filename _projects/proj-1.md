@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project One'
+title: 'House Price Prediction in Philadelphia'
 thumbnail: /assets/img/projects/proj-1/thumbnail.png
 collection: projects
 external_url: https://jasmine-404.github.io/PPA-Philadelphia-house-price-prediction/
