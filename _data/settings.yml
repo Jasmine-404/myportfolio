@@ -21,8 +21,8 @@ resume_link_title: Download Resume
 # link, if given).
 menu:
 - {name: 'Works', url: ' '}
-# - {name: 'Blog',     url: 'blog'}
-- {name: 'About Me',    url: 'about'}
+# - {name: 'Blog',  url: 'blog'}
+- {name: 'About Me',  url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
