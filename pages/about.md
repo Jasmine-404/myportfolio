@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-headshot: /assets/img/headshot2.jpg
+headshot: /assets/img/headshot2.png
 permalink: /about
 ---
 
