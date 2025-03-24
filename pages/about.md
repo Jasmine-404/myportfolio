@@ -1,25 +1,30 @@
 ---
 layout: about
 title: About Me
-headshot: /assets/img/headshot.webp
+headshot: /assets/img/headshot1.jpg
 permalink: /about
 ---
 
 <!--This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.-->
-我是Jasmine Fei
-
-# | Education Experience
-
-2024.8 - 2025.5  Master of Urban Spatial Analytics at University of Pennsylvania
-2019.8 - 2023.6  Bachelor of Geographic Information Science at Sun Yat-sen University
-
 # | Skills
 
 <strong>Software: </strong>
-    - GIS: ArcGIS Pro & Online, QGIS, GeoDa; 
+    - GIS: ArcGIS Pro & Online, QGIS, GeoDa
     - Other: Adobe Photoshop, Microsoft Office
-Programming & Development: Python, R (Deep Learning, Data Analysis, Statistical Modeling, Visualization),
-JavaScript (Web Development), SQL (Database Management)
-Big Data & Cloud Computing: Machine learning with Scikit-learn, TensorFlow; remote sensing data cloud
-computing with Google Earth Engine
-Fieldwork & Equipment: Hands-on experience with UAV, handheld GPS and imaging spectrometers
+
+<strong>Programming & Development: </strong>Python, R (deep learning, data analysis, statistical modeling, visualization),JavaScript (front-end web development), SQL (database management)
+
+<strong>Big Data & Cloud Computing:</strong> machine learning with Scikit-learn, TensorFlow; remote sensing data cloud computing with Google Earth Engine
+
+<strong>Fieldwork & Equipment:</strong> hands-on experience with UAV, handheld GPS and imaging spectrometers
+
+# | Experience
+
+<strong>2024.08 - 2025.05</strong>  Master of Urban Spatial Analytics at University of Pennsylvania
+
+<strong>2023.06 - 2023.08</strong> Intern Research Assistant at Guangdong Academy of Science - Guangzhou Institute of Geography
+
+<strong>2023.01 - 2023.03</strong> GIS Intern at Guangzhou Planning Institute (GZPI)
+
+<strong>2019.08 - 2023.06</strong>  Bachelor of Geographic Information Science at Sun Yat-sen University
+
