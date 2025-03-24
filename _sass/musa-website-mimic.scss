@@ -276,6 +276,12 @@ h2::after {
   border-radius: 1%;
 }
 
+.aboutme-content{
+  display: block;
+  width: 50%;
+
+}
+
 /* Project list on the home page */
 
 .project-link {
@@ -420,9 +426,12 @@ post-container img {
   }
 
   .headshot {
-    float: none;
-    //margin-right: var(--spacing);
-    //margin-bottom: var(--spacing);
+    float: left;
+    margin-right: var(--spacing);
+    margin-bottom: var(--spacing);
+  }
+  .aboutme-content{
+    float:right;
   }
 }
 
