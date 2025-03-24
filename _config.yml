@@ -20,7 +20,7 @@ collections:
 
   visualization_projects:
     output: true
-    permalink: /visualization/:title
+    permalink: /:title
 
   web_projects:
     output: true
