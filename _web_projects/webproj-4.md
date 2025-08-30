@@ -1,6 +1,6 @@
 ---
-title: 'Story Map - Urban Humidity Environment in Beijing (ArcGIS Online)'
-thumbnail: /assets/img/jsproj/webproj-4/thumbnail.jpg
+title: 'Story Map-California Earthquake Risk (ArcGIS Online)'
+thumbnail: /assets/img/jsproj/webproj-4/thumbnail.png
 collection: web_projects
-external_url: 'https://storymaps.arcgis.com/stories/d00bc8c835e4484785a2e9b3797fee9e'
+external_url: 'https://storymaps.arcgis.com/stories/f495e487be214428983b56d70e10ac72'
 ---

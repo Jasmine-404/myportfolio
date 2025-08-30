@@ -1,6 +1,6 @@
 ---
-title: 'Story Map-California Earthquake Risk (ArcGIS Online)'
+title: 'Dashboard-Guangzhou Medical Services (JavaScript)'
 thumbnail: /assets/img/jsproj/webproj-3/thumbnail.png
 collection: web_projects
-external_url: 'https://storymaps.arcgis.com/stories/f495e487be214428983b56d70e10ac72'
+external_url: 'https://jasmine-404.github.io/MUSA6110_HW2_Dashboard/'
 ---

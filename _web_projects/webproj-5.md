@@ -1,6 +1,6 @@
 ---
-title: 'Story Map - the Silk Road (JavaScript)'
+title: 'Story Map - Urban Humidity Environment in Beijing (ArcGIS Online)'
 thumbnail: /assets/img/jsproj/webproj-5/thumbnail.jpg
 collection: web_projects
-external_url: 'https://jasmine-404.github.io/MUSA6110_HW1_StoryMap2/'
+external_url: 'https://storymaps.arcgis.com/stories/d00bc8c835e4484785a2e9b3797fee9e'
 ---

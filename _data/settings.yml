@@ -2,16 +2,16 @@
 # General Site Settings
 
 # The site logo that shows up in the top-left corner of the page.
-logo: '/assets/img/musa-logo.png'
+# logo: '/assets/img/musa-logo.png'
 
 # A brief introduction or mission statement that appears at the top of the
 # portfolio home page, above the project list. If you don't want one of the
 # intro_title or intro_text to show up, just set the appropriate value to null.
 intro_title: Jasmine Fei
 intro_text: |
- Hi, I'm <strong>Jasmine(Jingmiao) Fei</strong>. I hold a mater's degree in Geographic Information Science from the University of Pennsylvnia. And I am currently working as a Global Supply Chain Data Analyst at Lenovo.
+ Hi, I'm <strong>Jasmine(Jingmiao) Fei</strong>. I'm currently working as a Data Analyst at Lenovo.
  
- I am passionate about spatial analysis and data visualization. I love leveraging geospatial data to uncover insights and create maps that tell meaningful stories. My goal is to use data-driven methods to build sustainable, livable cities and natural environment that enhance well-being. <br><br>
+ I am passionate about spatial analysis and data visualization. I love leveraging data to uncover insights and create maps that tell meaningful stories. My goal is to use data-driven methods to build sustainable, livable cities and natural environment that enhance well-being. <br><br>
  
  <strong>Here are some of my works!</strong> (Continuously updating...)
 
